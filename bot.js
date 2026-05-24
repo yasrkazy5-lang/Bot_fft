@@ -1,7 +1,7 @@
 const { Telegraf, Markup } = require('telegraf');
 
 // ضع توكن البوت الخاص بك هنا
-const BOT_TOKEN = 'YOUR_BOT_TOKEN';
+const BOT_TOKEN = '8360020164:AAE9RYF9pQwi9007JVt6y0dnAcuF6Ec4pxA';
 const bot = new Telegraf(BOT_TOKEN);
 
 // القائمة الرئيسية بأزرار إنلاين (Inline) فخمة
